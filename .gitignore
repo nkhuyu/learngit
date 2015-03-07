@@ -7,4 +7,5 @@ db.config
 *.egg-info
 dist
 build
+*.DS_STORE
 
